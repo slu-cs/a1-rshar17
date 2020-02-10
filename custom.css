@@ -1,0 +1,68 @@
+.topimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.navbar-nav{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.DOGDERBLUE {
+  background: #1E90FF;
+  padding-right: 30px;
+
+  padding-left: 30px;
+}
+
+.nav-link {
+  color: #4b2b23;
+}
+.nav-link.active {
+  background: #4b2b23;
+  color: #ffffff;
+
+}
+.nav-link:hover {
+  text-decoration: underline;
+}
+.backgroundimg {
+  background-image: url("https://freefrontend.com/assets/img/css-background-patterns/css-lattice-pattern.png");
+  width: auto;
+  height: auto;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.chunkbackground {
+  background-color: #87CEFA;
+  width: auto;
+  height: auto;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.intialtitle {
+ text-align: center;
+}
+
+.phrases {
+
+  text-align: center;
+  padding-right: 150px;
+  padding-left: 150px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+
+.votingpad{
+  padding-right: 150px;
+  padding-left: 150px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
