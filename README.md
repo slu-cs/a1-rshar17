@@ -18,10 +18,12 @@ Overall comments on grading questions:
 
 2) Are the pages reasonably structured with HTML?
     - For the most part, yes.
-    - The Guide page is lengthy. It would be nice to split this up.
-    - Dates & deadlines would be well suited to present in tables.
+    - Dates & deadlines seem well suited for table formats.
+    - The Guide page is lengthy. Would be nice to split this up.
 
 3) Are the pages tolerably styled with Bootstrap?
     - Styling needs work.
+    - The blueness is a little overwhelming.
     - Centered list items don't look right at all.
+    - Larger blocks of text also get hard to read when they're centered.
     - The navbar doesn't have active-link highlighting, so visitors can't keep track of where they are.
